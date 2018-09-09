@@ -6,7 +6,7 @@ One of the most important checkpoints in evaluating a new technology is how easy
 
 After a bit a reasearch I found the combination of the **serverless-offline** plugin with **Visual Studio Code** to be the best solution for testing and debugging the application.
 
-##Steps to run the Application ##
+## Steps to run the Application ##
 
 The application connects to a Local Dynamo DB connection. 
 
