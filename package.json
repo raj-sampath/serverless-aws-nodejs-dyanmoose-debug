@@ -1,0 +1,21 @@
+{
+  "name": "dyanamo-serverless",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "dependencies": {
+    "dynamoose": "^0.8.7",
+    "lodash": "^4.17.10",
+    "shortid": "^2.2.13",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "serverless": "^1.30.3",
+    "serverless-offline": "^3.25.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shyam Raj Sampath",
+  "license": "ISC"
+}
