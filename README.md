@@ -12,7 +12,7 @@ The application connects to a Local Dynamo DB connection.
 
 1. Pull the code.
 2. Open the console and navigate to the folder where the code is present.
-3. Resole the dependencies - *npm install*.
+3. Resolve the dependencies - *npm install*.
 4. Start DyananoDB on your local machine.
 5. Open the project in Visual Studio Code.
 6. Select the *Start Severless* run configuration, in the *Debug* section.
